@@ -1,0 +1,6 @@
+What should people be able to do?
+-> harvest energy
+-> develop technology
+--> be able to put things together to create some sort of a machine
+--> hire researchers to develop things
+-> build infrastructure
